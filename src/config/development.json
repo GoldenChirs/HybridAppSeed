@@ -1,0 +1,7 @@
+{
+  "API": {
+    "GLOBAL": {
+      "MAX_ATTEMPTS": 4
+    }
+  }
+}
